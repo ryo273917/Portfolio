@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BattouSyoubu-1.0";
 const contentToCache = [
-    "Build/Web.loader.js",
-    "Build/Web.framework.js",
-    "Build/Web.data",
-    "Build/Web.wasm",
+    "Build/Portfolio_Battou.loader.js",
+    "Build/Portfolio_Battou.framework.js",
+    "Build/Portfolio_Battou.data",
+    "Build/Portfolio_Battou.wasm",
     "TemplateData/style.css"
 
 ];
